@@ -1,14 +1,26 @@
 # Prompt Library
 
-Welcome to the Prompt Library.
+This folder contains reusable prompt templates for different AI platforms and use cases.
 
-This folder contains reusable prompts for:
+## Categories
 
-- ChatGPT
-- Claude
-- Gemini
-- AI Image Generation
-- AI Video Generation
-- Office Productivity
+- `universal/` — prompts that work across many AI models
+- `chatgpt/` — prompts optimized for ChatGPT
+- `claude/` — prompts optimized for Claude
+- `gemini/` — prompts optimized for Gemini
+- `grok/` — prompts optimized for Grok
+- `copilot/` — prompts optimized for Microsoft Copilot
 
-More prompts will be added over time.
+## Prompt Format
+
+Each prompt should include:
+
+- Purpose
+- Use case
+- Prompt template
+- Expected output
+- Notes or best practices
+
+## Goal
+
+Build a practical prompt library that is easy to reuse, improve, and share.
