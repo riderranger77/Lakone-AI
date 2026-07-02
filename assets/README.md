@@ -1,3 +1,15 @@
 # Assets
 
-This folder stores images, diagrams, icons, screenshots, and other static resources used by Lakone-AI.
+This folder contains supporting assets for Lakone-AI.
+
+## Asset Types
+
+- Images
+- Diagrams
+- Screenshots
+- Visual references
+- Supporting files
+
+## Goal
+
+Keep project assets organized and easy to reference from documentation, examples, and workflows.
