@@ -1,16 +1,19 @@
 # Documentation
 
-Welcome to the Lakone-AI documentation.
+This folder contains structured learning materials about Artificial Intelligence and practical AI implementation.
 
-This folder contains detailed guides about AI tools, workflows, prompt engineering, and productivity.
+## Main Topics
 
-## Sections
+- AI basics
+- Prompt engineering
+- Large Language Models
+- AI agents
+- Retrieval Augmented Generation
+- AI automation
+- AI image generation
+- AI video generation
+- Productivity workflows
 
-- ChatGPT
-- Claude
-- Gemini
-- Dreamina
-- Kling
-- Hailuo
-- Prompt Engineering
-- Automation
+## Goal
+
+Make AI easier to understand through clear, practical, and reusable documentation.
